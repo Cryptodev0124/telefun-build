@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e2adde0.css",
+    "main.css": "/static/css/main.67ee90f9.css",
     "main.js": "/static/js/main.a78aa095.js",
     "static/js/57.7b4d16a4.chunk.js": "/static/js/57.7b4d16a4.chunk.js",
     "static/js/144.5ea43a21.chunk.js": "/static/js/144.5ea43a21.chunk.js",
@@ -17,6 +17,7 @@
     "static/media/telegram.png": "/static/media/telegram.d20a73454e8e3b72e285.png",
     "static/media/deploytext.png": "/static/media/deploytext.982c8c4b9e7556f6bc14.png",
     "static/media/cross-icon.svg": "/static/media/cross-icon.205cfc940b85852221d0ffea896c8ccc.svg",
+    "static/media/background.jpg": "/static/media/background.69300cd4d41d2983004e.jpg",
     "static/media/website.png": "/static/media/website.1acb48629056d3f76a00.png",
     "static/media/upload.svg": "/static/media/upload.7fdcd73e728036b3798eeefaed18c28d.svg",
     "static/media/trader-joe.webp": "/static/media/trader-joe.2da4ef949b2c16313bb3.webp",
@@ -33,7 +34,7 @@
     "static/media/edit.svg": "/static/media/edit.371fef18ec1628007d7bf44add26e0f2.svg",
     "static/media/hamburger.svg": "/static/media/hamburger.43661e3aee780c1854dd89a4a72093ba.svg",
     "static/media/back.svg": "/static/media/back.1d8a7bcb467203bca4c9721538aa8ff0.svg",
-    "main.9e2adde0.css.map": "/static/css/main.9e2adde0.css.map",
+    "main.67ee90f9.css.map": "/static/css/main.67ee90f9.css.map",
     "main.a78aa095.js.map": "/static/js/main.a78aa095.js.map",
     "57.7b4d16a4.chunk.js.map": "/static/js/57.7b4d16a4.chunk.js.map",
     "144.5ea43a21.chunk.js.map": "/static/js/144.5ea43a21.chunk.js.map",
@@ -44,7 +45,7 @@
     "181.7b0f8cf4.chunk.js.map": "/static/js/181.7b0f8cf4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e2adde0.css",
+    "static/css/main.67ee90f9.css",
     "static/js/main.a78aa095.js"
   ]
 }
