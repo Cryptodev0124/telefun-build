@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.8fcc7c6f.css",
+    "main.css": "/static/css/main.38a901f5.css",
     "main.js": "/static/js/main.a25060e3.js",
     "static/js/619.00acb5a0.chunk.js": "/static/js/619.00acb5a0.chunk.js",
     "static/js/57.7b4d16a4.chunk.js": "/static/js/57.7b4d16a4.chunk.js",
     "static/media/footer telefun.png": "/static/media/footer telefun.91d43b3691e8e6fae52f.png",
     "static/media/header-logo.png": "/static/media/header-logo.7f95e8fc61bbe9d4aa97.png",
     "static/media/logo.png": "/static/media/logo.29cd3235b835e8d94cae.png",
+    "static/media/background.png": "/static/media/background.911cda32eca393c6fe0c.png",
     "static/media/info.png": "/static/media/info.a9f2a17b958c1b653179.png",
     "static/media/rocket.svg": "/static/media/rocket.4276b21289217b7289624752e46464a3.svg",
     "static/media/telegram.png": "/static/media/telegram.d20a73454e8e3b72e285.png",
@@ -27,13 +28,13 @@
     "static/media/edit.svg": "/static/media/edit.371fef18ec1628007d7bf44add26e0f2.svg",
     "static/media/hamburger.svg": "/static/media/hamburger.43661e3aee780c1854dd89a4a72093ba.svg",
     "static/media/back.svg": "/static/media/back.1d8a7bcb467203bca4c9721538aa8ff0.svg",
-    "main.8fcc7c6f.css.map": "/static/css/main.8fcc7c6f.css.map",
+    "main.38a901f5.css.map": "/static/css/main.38a901f5.css.map",
     "main.a25060e3.js.map": "/static/js/main.a25060e3.js.map",
     "619.00acb5a0.chunk.js.map": "/static/js/619.00acb5a0.chunk.js.map",
     "57.7b4d16a4.chunk.js.map": "/static/js/57.7b4d16a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8fcc7c6f.css",
+    "static/css/main.38a901f5.css",
     "static/js/main.a25060e3.js"
   ]
 }
