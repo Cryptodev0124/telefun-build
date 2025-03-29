@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e02fa6e3.css",
-    "main.js": "/static/js/main.1c9115dd.js",
+    "main.css": "/static/css/main.0de72575.css",
+    "main.js": "/static/js/main.76d730ba.js",
     "static/js/619.00acb5a0.chunk.js": "/static/js/619.00acb5a0.chunk.js",
     "static/js/57.7b4d16a4.chunk.js": "/static/js/57.7b4d16a4.chunk.js",
     "static/media/background.png": "/static/media/background.6c399678424106ff402f.png",
@@ -15,25 +15,25 @@
     "static/media/website.png": "/static/media/website.1acb48629056d3f76a00.png",
     "static/media/upload.svg": "/static/media/upload.7fdcd73e728036b3798eeefaed18c28d.svg",
     "static/media/trader-joe.webp": "/static/media/trader-joe.2da4ef949b2c16313bb3.webp",
+    "static/media/bnb.svg": "/static/media/bnb.885300371451a29031693bb4d7a9d576.svg",
     "static/media/tg.svg": "/static/media/tg.20ec0ad4b8dd012d732ab54c5e4e6584.svg",
     "static/media/chart-1.svg": "/static/media/chart-1.f9a47eceb5ebb993699a0c4189d5f60d.svg",
     "static/media/tg-1.svg": "/static/media/tg-1.13b659d94a4efab48d80a86c39a8523d.svg",
     "static/media/chart.svg": "/static/media/chart.e4e81720e5e0e6d4e1a1ff0f00f57f82.svg",
     "index.html": "/index.html",
-    "static/media/ETH-logo.svg": "/static/media/ETH-logo.e8ad63eb5396ee95230c9b4046864fd3.svg",
     "static/media/x-icon.svg": "/static/media/x-icon.4b52c4b6507e6b0a1f38bb958a4a21c6.svg",
     "static/media/x-1.svg": "/static/media/x-1.2928ee351028344a0049179026242b0e.svg",
     "static/media/x.svg": "/static/media/x.6138c36e1f4504a6f40b29ae79a50368.svg",
     "static/media/copy.svg": "/static/media/copy.3a35a626756a3f07ad45adcfd11fd303.svg",
     "static/media/edit.svg": "/static/media/edit.371fef18ec1628007d7bf44add26e0f2.svg",
     "static/media/back.svg": "/static/media/back.1d8a7bcb467203bca4c9721538aa8ff0.svg",
-    "main.e02fa6e3.css.map": "/static/css/main.e02fa6e3.css.map",
-    "main.1c9115dd.js.map": "/static/js/main.1c9115dd.js.map",
+    "main.0de72575.css.map": "/static/css/main.0de72575.css.map",
+    "main.76d730ba.js.map": "/static/js/main.76d730ba.js.map",
     "619.00acb5a0.chunk.js.map": "/static/js/619.00acb5a0.chunk.js.map",
     "57.7b4d16a4.chunk.js.map": "/static/js/57.7b4d16a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e02fa6e3.css",
-    "static/js/main.1c9115dd.js"
+    "static/css/main.0de72575.css",
+    "static/js/main.76d730ba.js"
   ]
 }
